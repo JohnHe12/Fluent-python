@@ -35,3 +35,6 @@ class FrenchDeck:
 print(1)
 fd = FrenchDeck()
 fd.k
+
+#####
+# main
