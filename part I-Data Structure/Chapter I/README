@@ -1,0 +1,21 @@
+This Chapter 
+
+The Python Data Model 
+
+1. What's New in This Chapter 
+
+2. A Python Card Deck
+
+3. How Special Method Are Used
+    Emulating Numeric Types
+    String Reprensentation
+    Boolean Value of a Custom Type
+    Collection API
+
+4. Overview of Special Methods
+
+5. Why len Is Not a Method
+
+6. Chapter Summary
+
+7. Further Reading
