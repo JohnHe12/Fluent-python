@@ -116,8 +116,3 @@ def main():
 
 ###################   Pattern Matching Sequences in an Interpreter #################
 
-
-
-
-
-
