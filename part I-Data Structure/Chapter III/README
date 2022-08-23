@@ -17,3 +17,10 @@ Other built-in types based on hash tables are set and frozenset
 • Thesetandfrozensettypes
 
 • Implications of hash tables in the behavior of sets and dictionaries
+
+
+Dictionaries are a keystone of Python. Over the years, the familiar {k1: v1, k2: v2} literal syntax was enhanced to support unpacking with **, pattern matching, as well as dict comprehensions.
+
+Beyond the basic dict, the standard library offers handy, ready-to-use specialized mappings like defaultdict, ChainMap, and Counter,
+
+A clever hook in the mapping API is the __missing__ method, which lets you cus‐ tomize what happens when a key is not found when using the d[k] syntax that invokes __getitem__.
